@@ -1,0 +1,15 @@
+{
+    "jsonrpc": "2.0",
+    "method": "item.create",
+    "params": {
+        "name": "Free disk space on $1",
+        "key_": "vfs.fs.size[/home/vagrant/,free]",
+        "hostid": "10263",
+        "type": 0,
+        "value_type": 3,
+        "interfaceid": "2",
+        "delay": 30
+    },
+    "auth": "",
+    "id": 3
+}
